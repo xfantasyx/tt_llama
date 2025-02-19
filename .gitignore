@@ -1,0 +1,8 @@
+
+
+# Build
+build_generate/
+build_generated/
+install/
+*.lnk
+
