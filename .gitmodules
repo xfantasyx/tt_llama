@@ -1,0 +1,4 @@
+[submodule "sources/llama.cpp"]
+	path = sources/llama.cpp
+	url = https://github.com/xfantasyx/llama.cpp.git
+	branch = TT
